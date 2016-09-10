@@ -1,0 +1,27 @@
+{
+  "name": "btype-webpack-loader",
+  "version": "1.0.0",
+  "description": "A webpack loader for importing btype files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattbasta/btype-webpack-loader.git"
+  },
+  "keywords": [
+    "btype",
+    "webpack",
+    "loader"
+  ],
+  "author": "Matt Basta <me@mattbasta.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mattbasta/btype-webpack-loader/issues"
+  },
+  "homepage": "https://github.com/mattbasta/btype-webpack-loader#readme",
+  "dependencies": {
+    "btype": "^0.2.*"
+  }
+}
